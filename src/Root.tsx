@@ -40,10 +40,10 @@ export const Root = () => {
                 <Button>Hello world</Button>
                 <XStack
 					width={`100%`}
-                    backgroundColor="#fff"
+					backgroundColor="#fff"
 					justifyContent="end"
 					alignItems="center"
-                    flexDirection="column"
+					flexDirection="column"
 					flexGrow={1}
                 >
                     <YStack space="$3">
